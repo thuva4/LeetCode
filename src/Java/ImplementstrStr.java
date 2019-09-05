@@ -1,5 +1,15 @@
 package Java;
 
+
+/*
+
+Given two integers dividend and divisor, divide two integers without using multiplication, division and mod operator.
+
+*/
+
+//Problem: https://leetcode.com/problems/divide-two-integers/
+
+
 public class ImplementstrStr {
     public static void main(String[] args) {
         ImplementstrStr implementstrStr = new ImplementstrStr();

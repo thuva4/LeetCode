@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fc1c1e0-e029-43d1-8d22-43d70e382862" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java/RemoveElement.java" afterDir="false" />
+    <list default="true" id="6fc1c1e0-e029-43d1-8d22-43d70e382862" name="Default Changelist" comment="Solve valid() problem">
+      <change afterPath="$PROJECT_DIR$/src/Java/DivideTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/ValidNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/FourSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/FourSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/ImplementstrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/ImplementstrStr.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ValidNumber">
+    <configuration name="DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.DivideTwoIntegers" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplementstrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.ImplementstrStr" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java.RemoveElement" />
       <module name="LeetCode" />
@@ -78,8 +105,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.ValidNumber" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidNumber" />
+        <item itemvalue="Application.DivideTwoIntegers" />
+        <item itemvalue="Application.ImplementstrStr" />
         <item itemvalue="Application.RemoveElement" />
       </list>
     </recent_temporary>
@@ -110,8 +153,23 @@
       <workItem from="1554178672535" duration="15000" />
       <workItem from="1559135610467" duration="582000" />
       <workItem from="1560408218262" duration="11000" />
-      <workItem from="1567574051584" duration="857000" />
+      <workItem from="1567574051584" duration="21590000" />
     </task>
+    <task id="LOCAL-00001" summary="Solve remove element problem">
+      <created>1567574945602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567574945602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Solve strStr() problem">
+      <created>1567592738304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567592738304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +185,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solve remove element problem" />
+    <MESSAGE value="Solve strStr() problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve strStr() problem" />
   </component>
   <component name="masterDetails">
     <states>
